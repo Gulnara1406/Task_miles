@@ -6,5 +6,5 @@ public class Main {
         int bonus_miles = value / mile;
 
         System.out.println("Количество бонусных миль начисленных за билет: " + bonus_miles);
-        }
     }
+}
